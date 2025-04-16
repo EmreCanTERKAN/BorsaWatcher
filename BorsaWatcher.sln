@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BorsaWatcher", "BorsaWatcher\BorsaWatcher.csproj", "{CEF6FA51-F8E2-4B00-AF9F-F66F33AC3ADB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEF6FA51-F8E2-4B00-AF9F-F66F33AC3ADB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEF6FA51-F8E2-4B00-AF9F-F66F33AC3ADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEF6FA51-F8E2-4B00-AF9F-F66F33AC3ADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEF6FA51-F8E2-4B00-AF9F-F66F33AC3ADB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {779ADC62-7A55-4A43-8A42-510B3D584800}
+	EndGlobalSection
+EndGlobal
